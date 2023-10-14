@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm EGEMEN ŞAHİN</h1>
+<h1 align="center">Hi 👋, I'm EGEMEN SAHİN</h1>
 <h3 align="center">FRON-END DEVELOPER</h3>
 
 <h3 align="left">Connect with me:</h3>
