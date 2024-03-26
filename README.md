@@ -99,7 +99,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>هHave Good Days...✨</b>
 
 </div>
 <br>
@@ -111,6 +111,6 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Credit: [Egemen Şahin](https://github.com/EgemenShn01)
 
-Last Edited on: 09/11/2022
+Last Edited on: 26/03/2024
