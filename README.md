@@ -48,6 +48,9 @@
 <br>
 <div align='left'>
 <a href="https://egemensahincv.vercel.app/">Egemen Şahin Web Sitesi</a>
+	<a href="https://www.linkedin.com/in/egemen-sahin-966359263/">Linkedin</a>
+	<a href="https://www.instagram.com/egemensahn_/">İnstagram</a>
+	<a href="https://medium.com/@egemensahin">medium</a>
 <ul>
 
 
